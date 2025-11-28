@@ -2,6 +2,9 @@
 
 This assignment focuses on designing, developing, and deploying a comprehensive full-stack MERN application that showcases all the skills you've learned throughout the course.
 
+Here is the link to the main project repository: **https://github.com/mathekalawrence/ParkBest-Mobile-App.git**  
+
+
 ## Assignment Overview
 
 You will:
